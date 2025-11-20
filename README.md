@@ -18,8 +18,8 @@ O Caminho é a Mão na Massa! Todos os códigos, desafios e projetos que estou d
 * Praticar o *branching* (`git branch`, `git checkout`).
 * Aprender sobre *merge* e *rebase*.
 
-Teste de autenticação via: ssh
-
+Teste de autenticação via: ssh - 1
+Teste de autenticação via: ssh - 2
 
 # Glossário:
 # Interpretador:
